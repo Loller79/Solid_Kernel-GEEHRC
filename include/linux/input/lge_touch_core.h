@@ -141,6 +141,7 @@ struct touch_fw_info
 	u8		ic_fw_identifier[31];	/* String */
 	u8		ic_fw_version[11];		/* String */
 #ifdef CUST_G_TOUCH
+	u8		fw_force_rework;
 	u8		syna_img_fw_version[5];
 	u8		syna_img_fw_product_id[11];
 #endif
