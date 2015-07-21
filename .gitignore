@@ -44,6 +44,12 @@ modules.builtin
 /System.map
 /Module.markers
 /Module.symvers
+/compare
+/copyzip.sh
+/makeboot.sh
+/makeboot2.sh
+/modules.sh
+/patch
 
 #
 # Debian directory (make deb-pkg)
